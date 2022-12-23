@@ -1,50 +1,13 @@
 [
     {
         "id": "1",
-        "name": "Basic HTML "
+        "name": "Basic HTML",
+        "tags":["html", "head"]
     },
     {
         "id": "2",
-        "name": "Formatting "
+        "name": "Formatting",
+        "tag":["pre", "strong"]
     },
-    {
-        "id": "3",
-        "name": "Forms and Input "
-    },
-    {
-        "id": "4",
-        "name": "Frames "
-    },
-    {
-        "id": "5",
-        "name": "Images "
-    },
-    {
-        "id": "6",
-        "name": "Audio / Video "
-    },
-    {
-        "id": "7",
-        "name": "Links "
-    },
-    {
-        "id": "8",
-        "name": "Lists "
-    },
-    {
-        "id": "9",
-        "name": "Tables "
-    },
-    {
-        "id": "10",
-        "name": "Styles and Semantics "
-    },
-    {
-        "id": "11",
-        "name": "Meta Info "
-    },
-    {
-        "id": "12",
-        "name": "Programming"
-    }
+    
 ]
