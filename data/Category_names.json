@@ -1,4 +1,4 @@
-const Category_data = [
+[
   'Basic HTML',
   'Formatting',
   'Forms and Input',
@@ -11,6 +11,6 @@ const Category_data = [
   'Styles and Semantics',
   'Meta Info',
   'Programming',
-];
+]
 
-export default Category_data;
+
